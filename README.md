@@ -29,13 +29,13 @@ useMemo(calculateValue, dependencies)
 git clone 프로젝트_GIT_URI
 ```
 
-> 프로젝트\_GIT_URI는 Github useCallback 저장소의 메인 페이지에서 초록색 `<> Code` 버튼을 클릭하시면 확인할 수 있음!
+> 프로젝트\_GIT_URI는 Github useMemo 저장소의 메인 페이지에서 초록색 `<> Code` 버튼을 클릭하시면 확인할 수 있음!
 
 <br>
 
 ## 2. 관련 의존성 패키지를 설치!
 
-터미널의 useCallback 디렉토리 내에서 아래 명령어를 실행!
+터미널의 useMemo 디렉토리 내에서 아래 명령어를 실행!
 
 ```sh
 npm install
@@ -44,7 +44,7 @@ npm install
 <br>
 
 ## 3. 로컬 서버 실행!
-useCallback 디렉토리에서 아래 명령어를 실행!
+useMemo 디렉토리에서 아래 명령어를 실행!
 
 ```sh
 npm run dev
